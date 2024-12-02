@@ -2,7 +2,6 @@
 
 ![download](https://github.com/user-attachments/assets/6f7f9db4-db85-4770-89f0-4ec5b978d4e3)
 
-
 </div>
 
 <br>
@@ -11,7 +10,7 @@
 
 
 ## 🎯 O objetivo:
-O décimo projeto realizado pelos alunos do curso de Engenharia de Software foi o desenvolvimento de um projeto baseado em Fluxo de entrega contínua, com o objetivo de apresentar soluções inovadoras para os parceiros do projeto por meio do uso da tecnologia.
+Desenvolver um pipeline com políticas de governança de dados. com um DataApp para visualização
 
 ## 💻 Projetos Desenvolvidos: 
 
